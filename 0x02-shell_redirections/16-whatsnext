@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A 3root /etc/passwd[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D [C[Droot /etc/passwd
+grep -A 3 root /etc/passwd
