@@ -1,0 +1,2 @@
+#!/bin?bash[D[D[D[D[D[/
+find ./* -type d -print | wc -1
